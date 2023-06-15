@@ -159,7 +159,7 @@ h6 {
 #header .logo img {
   padding: 0;
   margin: 7px 0;
-  max-height: 26px;
+  max-height: 35px;
 }
 
 .main-pages {
@@ -263,7 +263,7 @@ h6 {
 .main-nav a {
   display: block;
   position: relative;
-  color: #004289;
+  color: #6E2F93;
   padding: 10px 15px;
   transition: 0.3s;
   font-size: 14px;
@@ -274,7 +274,7 @@ h6 {
 .main-nav a:hover,
 .main-nav .active > a,
 .main-nav li:hover > a {
-  color: #007bff;
+  color: #34C0DF;
   text-decoration: none;
 }
 
