@@ -39,8 +39,9 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Montserrat", sans-serif;
+  font-family: 'Encode Sans', sans-serif;
   font-weight: 400;
+  font-weight: bold;
   margin: 0 0 20px 0;
   padding: 0;
 }
@@ -380,7 +381,7 @@ h6 {
 
 .mobile-nav .drop-down > a:after {
   content: "\f078";
-  font-family: FontAwesome;
+  font-family: fontAwesome;
   padding-left: 10px;
   position: absolute;
   right: 15px;
@@ -710,7 +711,7 @@ h6 {
 #why-us .counters p {
   padding: 0;
   margin: 0 0 20px 0;
-  font-family: "Montserrat", sans-serif;
+  font-family: IBM PLEX monospace;
   font-size: 14px;
   color: #cce5ff;
 }
@@ -1027,7 +1028,7 @@ h6 {
 #contact .contact-about p {
   font-size: 14px;
   line-height: 24px;
-  font-family: "Montserrat", sans-serif;
+  font-family: IBM PLEX monospace;
   color: #888;
 }
 
@@ -1165,7 +1166,7 @@ h6 {
   margin: 0 0 20px 0;
   padding: 2px 0 2px 0;
   line-height: 1;
-  font-family: "Montserrat", sans-serif;
+  font-family:
   color: #fff;
   font-weight: 400;
   letter-spacing: 3px;
@@ -1176,7 +1177,7 @@ h6 {
   font-size: 13px;
   line-height: 24px;
   margin-bottom: 0;
-  font-family: "Montserrat", sans-serif;
+  font-family: "IBM PLEX" monospace;
   color: #ecf5ff;
 }
 
@@ -1350,21 +1351,8 @@ h6 {
     width: 100%;
   }
 
-  #testimonials .testimonial-item {
-    text-align: center;
-  }
+ 
 
-  #testimonials .testimonial-item .testimonial-img {
-    float: none;
-    margin: auto;
-  }
-
-  #testimonials .testimonial-item h3,
-  #testimonials .testimonial-item h4,
-  #testimonials .testimonial-item p {
-    margin-left: 0;
-  }
-}
 
 @media (max-width: 574px) {
   #intro {
