@@ -178,6 +178,18 @@ h6 {
   background-size: cover;
   padding: 200px 0 120px 0;
 }
+#intro input{
+  background-color: #b5ceea;
+  border-radius: 50px;
+  border: 4px solid #7b06ce;
+  width: 297px;
+}
+
+#intro button{
+  background-color: #b5ceea;
+  border-radius: 50px;
+  border: solid #7b06ce 4px;
+}
 
 #intro .intro-img {
   width: 50%;
